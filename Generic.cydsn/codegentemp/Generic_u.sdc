@@ -1,3 +1,3 @@
-# Component constraints for C:\Users\Mattia\Documents\GITHUB\SoftHandPRO-and-Generic-FW-PSoC5\Generic.cydsn\TopDesign\TopDesign.cysch
-# Project: C:\Users\Mattia\Documents\GITHUB\SoftHandPRO-and-Generic-FW-PSoC5\Generic.cydsn\Generic.cyprj
-# Date: Thu, 01 Apr 2021 14:42:46 GMT
+# Component constraints for D:\Program Files\Google Drive\HapticLab\3_Utils\qbrobotics\qb_psoc5_firmware\Generic.cydsn\TopDesign\TopDesign.cysch
+# Project: D:\Program Files\Google Drive\HapticLab\3_Utils\qbrobotics\qb_psoc5_firmware\Generic.cydsn\Generic.cyprj
+# Date: Fri, 02 Apr 2021 09:31:06 GMT
