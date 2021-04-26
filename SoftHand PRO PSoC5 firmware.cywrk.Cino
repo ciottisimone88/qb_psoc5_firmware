@@ -13,10 +13,9 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Header Files\commands.h">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="SoftHand PRO PSoC5 firmware\CUFF\Source Files\utils.c">
 <ExpandedNodeIds>
 <v>SoftHand PRO PSoC5 firmware</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback</v>
 <v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\TopDesign</v>
 <v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Air_Chambers_Haptic_Feedback.cydwr</v>
 <v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Air_Chambers_Haptic_Feedback.cydwr\Pins</v>
@@ -192,52 +191,53 @@
 <VisibleNodeIds>
 <v>SoftHand PRO PSoC5 firmware</v>
 <v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\TopDesign</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Air_Chambers_Haptic_Feedback.cydwr</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Air_Chambers_Haptic_Feedback.cydwr\Pins</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Air_Chambers_Haptic_Feedback.cydwr\Analog</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Air_Chambers_Haptic_Feedback.cydwr\Clocks</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Air_Chambers_Haptic_Feedback.cydwr\Interrupts</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Air_Chambers_Haptic_Feedback.cydwr\DMA</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Air_Chambers_Haptic_Feedback.cydwr\System</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Air_Chambers_Haptic_Feedback.cydwr\Directives</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Air_Chambers_Haptic_Feedback.cydwr\Flash Security</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Air_Chambers_Haptic_Feedback.cydwr\EEPROM</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Header Files</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Header Files\command_processing.h</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Header Files\commands.h</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Header Files\device.h</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Header Files\Encoder_functions.h</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Header Files\FIRMWARE_CONFIGURATION.h</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Header Files\globals.h</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Header Files\IMU_functions.h</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Header Files\interruptions.h</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Header Files\SD_RTC_functions.h</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Header Files\utils.h</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Source Files</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Source Files\command_processing.c</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Source Files\Encoder_functions.c</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Source Files\globals.c</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Source Files\IMU_functions.c</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Source Files\interruptions.c</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Source Files\main.c</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Source Files\SD_RTC_functions.c</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Source Files\utils.c</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Generated_Source</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Generated_Source\PSoC5</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Generated_Source\PSoC5\ADC</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Generated_Source\PSoC5\ADC_AMux</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Generated_Source\PSoC5\ADC_Ext_CP_Clk</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Generated_Source\PSoC5\ADC_IRQ</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Generated_Source\PSoC5\ADC_N_CHANNELS_USED</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Generated_Source\PSoC5\ADC_SOC</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Generated_Source\PSoC5\ADC_STATUS</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Generated_Source\PSoC5\ADC_theACLK</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Generated_Source\PSoC5\BLINK_05HZ</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Generated_Source\PSoC5\BLINK_25HZ</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Generated_Source\PSoC5\BLINK_CTRL_EN</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Generated_Source\PSoC5\Bootloadable</v>
-<v>SoftHand PRO PSoC5 firmware\Air_Chambers_Haptic_Feedback\Generated_Source\PSoC5\Chip_Select_ENCODER_LINE</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\TopDesign</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\CUFF.cydwr</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\CUFF.cydwr\Pins</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\CUFF.cydwr\Analog</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\CUFF.cydwr\Clocks</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\CUFF.cydwr\Interrupts</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\CUFF.cydwr\DMA</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\CUFF.cydwr\System</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\CUFF.cydwr\Directives</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\CUFF.cydwr\Flash Security</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\CUFF.cydwr\EEPROM</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Header Files</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Header Files\command_processing.h</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Header Files\commands.h</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Header Files\cyapicallbacks.h</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Header Files\device.h</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Header Files\Encoder_functions.h</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Header Files\FIRMWARE_CONFIGURATION.h</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Header Files\globals.h</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Header Files\IMU_functions.h</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Header Files\interruptions.h</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Header Files\SD_RTC_functions.h</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Header Files\utils.h</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Source Files</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Source Files\command_processing.c</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Source Files\Encoder_functions.c</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Source Files\globals.c</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Source Files\IMU_functions.c</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Source Files\interruptions.c</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Source Files\main.c</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Source Files\SD_RTC_functions.c</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Source Files\utils.c</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Generated_Source</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Generated_Source\PSoC5</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Generated_Source\PSoC5\ADC</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Generated_Source\PSoC5\ADC_AMux</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Generated_Source\PSoC5\ADC_Ext_CP_Clk</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Generated_Source\PSoC5\ADC_IRQ</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Generated_Source\PSoC5\ADC_N_CHANNELS_USED</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Generated_Source\PSoC5\ADC_SOC</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Generated_Source\PSoC5\ADC_STATUS</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Generated_Source\PSoC5\ADC_theACLK</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Generated_Source\PSoC5\BLINK_05HZ</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Generated_Source\PSoC5\BLINK_25HZ</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Generated_Source\PSoC5\BLINK_CTRL_EN</v>
+<v>SoftHand PRO PSoC5 firmware\CUFF\Generated_Source\PSoC5\Bootloadable</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -1468,11 +1468,12 @@
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
-<name v=".\Air_Chambers_Haptic_Feedback.cydsn\TopDesign\TopDesign.cysch" />
-<name v=".\src\FIRMWARE_CONFIGURATION.h" />
-<name v=".\src\globals.h" />
-<name v=".\Air_Chambers_Haptic_Feedback.cydsn\Air_Chambers_Haptic_Feedback.cydwr" />
-<name v=".\src\commands.h" />
+<name v=".\src\command_processing.c" />
+<name v=".\src\interruptions.c" />
+<name v=".\CUFF.cydsn\CUFF.cydwr" />
+<name v=".\src\Encoder_functions.c" />
+<name v=".\src\main.c" />
+<name v=".\src\utils.c" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -1480,7 +1481,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1205, 676" SelectedTabbedMdiWindow="f9c1943f-2e7d-4e2d-bc05-e9a7c9f8eb68"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="7dbd36ee-3d48-4aeb-8ed7-b97fc637f5e7" /><DocumentWindow Key="D:\Program Files\Google Drive\HapticLab\3_Utils\qbrobotics\qb_psoc5_firmware\Air_Chambers_Haptic_Feedback.cydsn\TopDesign\TopDesign.cysch" Guid="f9c1943f-2e7d-4e2d-bc05-e9a7c9f8eb68" /><DocumentWindow Key="D:\Program Files\Google Drive\HapticLab\3_Utils\qbrobotics\qb_psoc5_firmware\src\FIRMWARE_CONFIGURATION.h" Guid="9e7d013b-caa7-4f98-9fe1-c6b238e85324" /><DocumentWindow Key="D:\Program Files\Google Drive\HapticLab\3_Utils\qbrobotics\qb_psoc5_firmware\src\globals.h" Guid="38a2307d-786d-4c09-bcfe-57f9b59dc327" /><DocumentWindow Key="D:\Program Files\Google Drive\HapticLab\3_Utils\qbrobotics\qb_psoc5_firmware\Air_Chambers_Haptic_Feedback.cydsn\Air_Chambers_Haptic_Feedback.cydwr" Guid="87bce55a-7ae2-4080-bd43-c83b8b47ce43" /><DocumentWindow Key="D:\Program Files\Google Drive\HapticLab\3_Utils\qbrobotics\qb_psoc5_firmware\src\commands.h" Guid="dce78588-7e98-475a-9478-e768337f0d29" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1205, 676" SelectedTabbedMdiWindow="3e18f630-21a7-4bc1-8ba8-0e0798b90660"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="7dbd36ee-3d48-4aeb-8ed7-b97fc637f5e7" /><DocumentWindow Key="D:\Program Files\Google Drive\HapticLab\3_Utils\qbrobotics\qb_psoc5_firmware\src\command_processing.c" Guid="7ed07bce-b64e-4850-baae-27f322a828d4" /><DocumentWindow Key="D:\Program Files\Google Drive\HapticLab\3_Utils\qbrobotics\qb_psoc5_firmware\src\interruptions.c" Guid="babe0770-be84-4e32-8db5-d0826434203c" /><DocumentWindow Key="D:\Program Files\Google Drive\HapticLab\3_Utils\qbrobotics\qb_psoc5_firmware\CUFF.cydsn\CUFF.cydwr" Guid="fff58ed5-389f-4803-9e69-d5b8d0325f78" /><DocumentWindow Key="D:\Program Files\Google Drive\HapticLab\3_Utils\qbrobotics\qb_psoc5_firmware\src\Encoder_functions.c" Guid="3e18f630-21a7-4bc1-8ba8-0e0798b90660" /><DocumentWindow Key="D:\Program Files\Google Drive\HapticLab\3_Utils\qbrobotics\qb_psoc5_firmware\src\main.c" Guid="a400e0b0-990c-4d3b-b411-10c06655300a" /><DocumentWindow Key="D:\Program Files\Google Drive\HapticLab\3_Utils\qbrobotics\qb_psoc5_firmware\src\utils.c" Guid="40d7cc2f-1d88-41ce-903d-7b2ae6bba982" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="Release" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
